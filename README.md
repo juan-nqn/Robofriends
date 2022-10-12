@@ -1,1 +1,1 @@
-Robofriends app Project fo portfolio - juan-nqn
+Robofriends app Project for portfolio - juan-nqn

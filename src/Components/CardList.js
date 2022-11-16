@@ -2,6 +2,9 @@ import React from 'react';
 import Card from './Card';
 
 const CardList = ({robots}) => {
+    // if(true){
+    //     throw new Error("new error") //al meter esta linea de codigo testeo el "ErrorBoundry"
+    // }
     return (
         <div>
             {
